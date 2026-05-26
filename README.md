@@ -112,3 +112,10 @@ This is a **client demo prototype only**. It is not production-ready code. No re
 npm run build
 npm start
 ```
+
+## For future updates from your machine
+git add .
+git commit -m "Your update message"
+git push
+
+
