@@ -4,6 +4,11 @@
 
 A polished localhost demo application for client presentation — showcasing federation workflows, dashboards, member management, registration, payments, and more. **No real backend** — all data is mocked.
 
+**Repository:** https://github.com/smgenai26-hue/FederatationDemo  
+**Future development:** See [DEVELOPMENT.md](./DEVELOPMENT.md) for architecture, extension guide, and production roadmap.
+
+**Client go-live checklist:** See [CLIENT_DEPLOYMENT_WORKBOOK.md](./CLIENT_DEPLOYMENT_WORKBOOK.md) for domain, hosting, Razorpay, SMS/OTP, email, WhatsApp, and sign-off templates (minimum vs full features).
+
 ---
 
 ## Quick Start
@@ -113,9 +118,16 @@ npm run build
 npm start
 ```
 
-## For future updates from your machine
+---
+
+## Save & update the project
+
+```bash
+git pull origin main
 git add .
 git commit -m "Your update message"
-git push
+git push origin main
+```
 
+See [DEVELOPMENT.md](./DEVELOPMENT.md) and [CHANGELOG.md](./CHANGELOG.md) for continuing development after the demo phase.
 
