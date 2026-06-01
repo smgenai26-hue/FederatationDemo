@@ -7,7 +7,7 @@ A polished localhost demo application for client presentation — showcasing fed
 **Repository:** https://github.com/smgenai26-hue/FederatationDemo  
 **Future development:** See [DEVELOPMENT.md](./DEVELOPMENT.md) for architecture, extension guide, and production roadmap.
 
-**Client go-live checklist:** See [CLIENT_DEPLOYMENT_WORKBOOK.md](./CLIENT_DEPLOYMENT_WORKBOOK.md) for domain, hosting, Razorpay, SMS/OTP, email, WhatsApp, and sign-off templates (minimum vs full features).
+**Client go-live:** [Executive summary (1 page)](./CLIENT_DEPLOYMENT_EXECUTIVE_SUMMARY.md) for leadership · [Full workbook](./CLIENT_DEPLOYMENT_WORKBOOK.md) for operations (domain, hosting, Razorpay, SMS/OTP, email, WhatsApp, sign-off).
 
 ---
 

@@ -1,9 +1,11 @@
-# AIDR Federation Portal — Client Deployment Workbook
+# Federation Portal — Client Deployment Workbook
 
 **Organization:** All India Distributors & Retail Federation (AIDR)  
 **Project:** Federation Management Portal (production go-live)  
 **Document version:** 1.0  
 **Purpose:** Checklist of tasks **owned by the client** (registrations, billing, KYC, credentials). Development and deployment are handled separately by your technical team.
+
+**Leadership (1 page):** [CLIENT_DEPLOYMENT_EXECUTIVE_SUMMARY.md](./CLIENT_DEPLOYMENT_EXECUTIVE_SUMMARY.md)
 
 ---
 
